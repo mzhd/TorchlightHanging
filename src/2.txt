@@ -1,0 +1,12 @@
+
+//蓝基址
+[[Torchlight2.exe+3039094]+14]+57C
+
+//红基址
+[[Torchlight2.exe+3039094]+14]+558
+
+[[Torchlight2.exe+3666F50]+8C]+558
+[[Torchlight2.exe+236A940]+2C]+558
+//金币基址
+[[Torchlight2.exe+3666F50]+8C]+588
+
