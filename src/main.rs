@@ -275,6 +275,7 @@ mod memory_utils;
 mod torchlight_utils;
 
 fn main() {
+    //window_name就是游戏名
     let memory_utils = MemoryUtils::new("OgreD3D9Wnd", "Torchlight II v.1.13.5.12");
 
     let torchlight_utils = TorchlightUtils::new(memory_utils);
